@@ -44,5 +44,5 @@ To work on these tasks, you must set up your own copy of the project:
 
 ## 🚀 How to Practice
 1. Open your browser's Developer Console to run quick math equations like 50 * 2 or check types using typeof true.
-2. Write your main calculation scripts inside your local script.js file.
+2. Write your main calculation scripts inside your local `index.js` file.
 3. Save your code, refresh your web browser tab, and inspect the console tab to read your outputs!
